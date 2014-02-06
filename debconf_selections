@@ -1,0 +1,3 @@
+gitolite gitolite/gituser string git
+gitolite gitolite/gitdir string /var/lib/gitolite
+gitolite gitolite/adminkey string /adminkey.pub
